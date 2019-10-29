@@ -1,0 +1,21 @@
+ul {
+    padding-left: 10px;
+    width: 100%;
+    display: flex;
+    align-content: space-between;
+    background-color: #eee
+}
+
+p {
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #666;
+    background-color: #fff;
+
+}
+
+span {
+    display: none;
+}
+

@@ -1,0 +1,26 @@
+button {
+    margin: 10px 5px;
+    height: 20px;   
+    border-radius: 10px;
+    cursor: pointer;
+    flex-grow: 1;
+}
+
+.true {
+    background-color: rgb(99, 243, 99);
+    border: solid rgb(99, 243, 99);
+}
+.true:hover {
+    background-color: rgb(151, 245, 151);
+    border: solid rgb(151, 245, 151);
+}
+
+.false {
+    background-color: rgb(228, 124, 124);
+    border: solid rgb(228, 124, 124);
+
+}
+.false:hover{
+    background-color: rgb(241, 170, 170);
+    border: solid rgb(241, 170, 170);
+}

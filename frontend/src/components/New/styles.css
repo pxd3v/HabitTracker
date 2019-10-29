@@ -1,0 +1,42 @@
+button#create {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    border-radius: 0px;
+    border: transparent;
+    background-color: #ddd;
+    color: #333;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0px;
+    font-family: monospace;
+
+}
+button#create:hover {
+    background: #eee;
+
+}
+
+.Novo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Novo form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    background-color: #ccc;
+    height: 70px;
+}
+
+.Novo input {
+    padding-left: 8px;
+    width: 100%;
+    font-family: monospace;
+    border: solid 2px #ddd;
+}
